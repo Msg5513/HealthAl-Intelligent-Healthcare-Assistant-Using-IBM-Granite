@@ -1,4 +1,13 @@
-pandas
-numpy
-matplotlib
-scikit-learn
+datetime  
+json  
+logging  
+numpy  
+pandas  
+plotly  
+pyngrok  
+streamlit  
+subprocess  
+threading  
+time  
+transformers  
+typing  
